@@ -1,0 +1,2 @@
+# -Script-Controlled-ACL-Restrict-Record-Access-Based-on-Field-Value
+Script Control ACL is a ServiceNow-based security application that controls script access using ACL and role-based permissions. It manages Read, Write, and Execute access, prevents unauthorized operations, and records user activities through logs. The system provides administrators with centralized and secure script access management.
